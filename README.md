@@ -2,7 +2,7 @@
 
 Este repositório contém o trabalho acadêmico de **Inteligência Artificial II** desenvolvido para o curso de **Ciência da Computação** da **Unifucamp**. 
 
-O objetivo do projeto é prever a nota final dos estudantes (atributo `G3`) com base em características demográficas, sociais e acadêmicas utilizando o conjunto de dados real **Student Performance Dataset** da UCI (coletado em duas escolas secundárias de Portugal para as matérias de **Matemática** e **Língua Portuguesa**).
+O objetivo do projeto é prever a nota final dos estudantes (atributo `G3`) com base em características demográficas, sociais e acadêmicas utilizando a base de dados real [Student Performance Dataset](https://archive.ics.uci.edu/dataset/320/student+performance) da UCI (coletado em duas escolas secundárias de Portugal para as matérias de **Matemática** e **Língua Portuguesa**).
 
 ---
 
